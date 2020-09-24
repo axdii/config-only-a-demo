@@ -2,4 +2,4 @@ data:
   env: localhost-dev-edit888
   user:
     username: fengzheng-dev9999
-    password: password-devv
+    password: '{cipher}b600ed1981ad0a977c219c946274f03c6ffe13626c0f1c1df5a6bc70efdcb883'
